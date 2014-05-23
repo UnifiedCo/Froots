@@ -1,17 +1,18 @@
-# [Froots Theme]
+# Froots Theme
 
 Froots is a WordPress starter theme based on [Roots](http://roots.io/) & [Foundation](http://foundation.zurb.com) that will help you make better themes.
 
+Froots is derived from the famous Roots WordPress starter theme. The main difference is that Bootstrap has been ripped out and left for dead only to be replaced by it's evil twin brother, Foundation.
 
 ## Installation
 
-Clone the git repo - `git clone git://github.com/froots/froots.git` - or [download it](https://github.com/froots/froots/zipball/master) and then rename the directory to the name of your theme or website. [Install Ruby](http://rubyinstaller.org/). [Install Grunt](http://gruntjs.com/getting-started), and then install the dependencies for Froots contained in `package.json` by running the following from the Roots theme directory:
+Clone the git repo - `git clone git://github.com/LogicSpot/Froots.git` - or [download it](https://github.com/LogicSpot/Froots/archive/master.zip) and then rename the directory to the name of your theme or website. [Install Ruby](http://rubyinstaller.org/). [Install Grunt](http://gruntjs.com/getting-started), and then install the dependencies for Froots contained in `package.json` by running the following from the Roots theme directory:
 
 ```
 npm install
 ```
 
-Reference the [theme activation](http://froots.io/froots-101/#theme-activation) documentation to understand everything that happens once you activate Roots.
+Reference the [theme activation](http://roots.io/roots-101/#theme-activation) documentation to understand everything that happens once you activate Froots.
 
 ## Theme Development
 
@@ -43,8 +44,12 @@ Edit `lib/init.php` to setup custom navigation menus and post thumbnail sizes.
 
 ## Contributing
 
-Everyone is welcome to help [contribute](CONTRIBUTING.md) and improve this project. There are several ways you can contribute:
+Everyone is welcome to help and improve this project.
 
 ## Support
 
 No support as of yet
+
+## Credits
+
+Thanks to [Ben Word](http://roots.io/author/benword/) and the [team at Zurb](http://foundation.zurb.com/)
